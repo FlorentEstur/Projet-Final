@@ -1,4 +1,4 @@
-package org.inti.service;
+package org.inti.repository;
 
 import org.inti.model.Location;
 import org.springframework.data.jpa.repository.JpaRepository;
