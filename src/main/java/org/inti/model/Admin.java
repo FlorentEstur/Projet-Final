@@ -8,7 +8,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 @Entity
-@Table
+@Table(name="AdminProjet")
 public class Admin {
 	
 	@javax.persistence.Id
