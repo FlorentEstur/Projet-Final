@@ -1,6 +1,6 @@
-package org.mycompany.service;
+package org.inti.repository;
 
-import org.mycompany.model.Client;
+import org.inti.model.Client;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

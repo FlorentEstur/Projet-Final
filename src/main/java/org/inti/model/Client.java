@@ -1,4 +1,4 @@
-package org.mycompany.model;
+package org.inti.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
