@@ -1,0 +1,16 @@
+org\inti\controller\GerantController.class
+org\inti\repository\ILocationRepository.class
+org\inti\repository\IAdminRepository.class
+com\inti\process\ProcessInsert.class
+org\inti\model\Location.class
+org\inti\controller\AdminController.class
+org\inti\model\Gerant.class
+org\inti\repository\IClientRepository.class
+org\inti\repository\IGerantRepository.class
+org\inti\repository\IAchatRepository.class
+org\inti\model\Achat.class
+com\inti\route\RouteSave.class
+org\inti\controller\ClientController.class
+org\inti\model\Client.class
+org\inti\model\Admin.class
+org\mycompany\Application.class

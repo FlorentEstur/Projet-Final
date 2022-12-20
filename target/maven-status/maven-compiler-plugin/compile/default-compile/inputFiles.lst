@@ -1,0 +1,16 @@
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\repository\IAdminRepository.java
+D:\Formation Apache\RealEstateAgency\src\main\java\com\inti\route\RouteSave.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\repository\IAchatRepository.java
+D:\Formation Apache\RealEstateAgency\src\main\java\com\inti\process\ProcessInsert.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\controller\AdminController.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\model\Gerant.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\model\Location.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\mycompany\Application.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\model\Achat.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\model\Client.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\controller\ClientController.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\controller\GerantController.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\model\Admin.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\repository\IGerantRepository.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\repository\IClientRepository.java
+D:\Formation Apache\RealEstateAgency\src\main\java\org\inti\repository\ILocationRepository.java
