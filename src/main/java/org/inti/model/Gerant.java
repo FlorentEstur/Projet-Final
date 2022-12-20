@@ -1,7 +1,10 @@
 package org.inti.model;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 @Entity
@@ -11,6 +14,10 @@ public class Gerant {
 	@Id
 	private int id;
 	private String nom, utilisateur, mdp;
+	
+	@ManyToOne(cascade = CascadeType.ALL)
+	@JoinColumn(name = "idAdmin")
+	private Admin admin;
 	
 	public Gerant() {
 		super();

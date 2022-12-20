@@ -2,7 +2,9 @@ package org.inti.model;
 
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 @Entity
@@ -15,7 +17,11 @@ public class Admin {
 	private String username;
 	private String password;
 	
+	@OneToMany (cascade = CascadeType.ALL, mappedBy = "admin")
+	private List<Client> listeClient;
 	
+	@OneToMany (cascade = CascadeType.ALL, mappedBy = "admin")
+	private List<Gerant> listeGerant;
 	
 	public Admin() {
 		super();
